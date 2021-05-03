@@ -13,7 +13,7 @@
 
 ## Interesses e Atuações
 
-> - :desktop_computer: Atualmente estou trabalhando como Desenvolvedor na CodeBlox. Atuo com .Net, web forms, Angular, Vue e Flutter.
-> - 🌱 Atualmente, estou aprendendo sobre Arquitetura de Software, Angular, Vue.Js e Chatbots
-> - 💬 Pergunte-me sobre: ​​tecnologia, música, séries e um pouco sobre investimentos.
+> - :desktop_computer: Atualmente estou trabalhando como Desenvolvedor no Hospital israelita Albert einstein. Atuo no time de backend com .Net.
+> - 🌱 Atualmente, estou aprendendo sobre Arquitetura de Software,Solid, clean code e Chatbots
+> - 💬 Pergunte-me sobre: ​​tecnologia, música, jogos, séries e um pouco sobre investimentos.
 > - ⚡ Tecnologias: .Net, Angular, Flutter, Vue, Chatbot
