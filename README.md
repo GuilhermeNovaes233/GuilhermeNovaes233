@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-> * 22
+> * 23
 > * Desenvolvedor .Net 👨‍💻 e apaixonado por todo seu ecossistema de desenvolvimento.
 > * Paulista
 > * Formado em Análise e Desenvolvimento de Sistemas, IFSP
