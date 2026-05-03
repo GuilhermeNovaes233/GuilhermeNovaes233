@@ -13,7 +13,7 @@
 
 ## Interesses e Atuações
 
-> - :desktop_computer: Atualmente estou trabalhando como Engenheiro de Software na XP. Atuo no time de backend com .Net.
+> - :desktop_computer: Atualmente estou trabalhando como Engenheiro de Software no Itau. Atuo no time de backend com .Net.
 > - 🌱 Atualmente, estou aprendendo sobre Arquitetura de Software, RabbitMQ, Elastic Search, clean code e Chatbots
 > - 💬 Pergunte-me sobre: ​​tecnologia, música, jogos, séries e um pouco sobre investimentos.
 > - ⚡ Tecnologias: .Net, Angular, Flutter, Vue, Chatbot
